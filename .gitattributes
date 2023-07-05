@@ -1,0 +1,2 @@
+Rogue-Squadron.exe filter=lfs diff=lfs merge=lfs -text
+Rogue[[:space:]]Squadron.exe filter=lfs diff=lfs merge=lfs -text
