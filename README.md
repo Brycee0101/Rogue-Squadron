@@ -2,11 +2,13 @@
 
 Rogue Squadron is an exhilarating and action-packed Java-based shooting game that takes players on an intergalactic adventure. As members of the Rebel Alliance starfighter squadron, players are tasked with shooting down menacing Storm Troopers during the Galactic Civil War. Embrace the spirit of rebellion, channel your inner Luke Skywalker, and embark on a mission to CRUSH THE EMPIRE!
 ## 👨‍💻Developers
+![alt text](https://github.com/Brycee0101/Rogue-Squadron/blob/master/src/rougeSquadron/img/developers.gif?raw=true)
 >   Bryce Stephen Halnin<br>
     Jaime Rodolfo Tuason<br>
     Sean Fredrick Cruz<br>
     Mackleine Espino<br>
     Jared Poblete<br>
+    
 
 ## System Features
 * Star Wars Theme: Immerse yourself in the thrilling world of Star Wars with captivating graphics and sound effects inspired by the iconic franchise.
