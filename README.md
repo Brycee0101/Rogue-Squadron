@@ -33,7 +33,7 @@ Note: Before installing, make sure that your computer meets the minimum requirem
 * JDK
 
 ## Samples
-![alt text](https://github.com/Brycee0101/Rogue-Squardron/src/img/playbutton.gif?raw=true)
+![alt text](https://github.com/Brycee0101/Rogue-Squardron/src-rougeSquadron/img/playbutton.gif?raw=true)
 
 ## Acknowledgements
 We acknowledge that Rogue Squadron, a Java-based game, is inspired by the Star Wars franchise created by George Lucas. We do not own rights to Star Wars and this is a non-commercial fan project for educational and entertainment purposes only. All rights belong to Lucasfilm Ltd., Disney, and their respective owners.
