@@ -24,7 +24,7 @@ Rogue Squadron is an exhilarating and action-packed Java-based shooting game tha
 
 ## ⬇️ Installation
 
-1. Install Required Dependencie.
+1. Install Required Dependencies.
 2. Clone the repository using Git.
 3. Open the project in your favorite Java IDE.
 4. Build and run the application to launch Rogue Squadron.
