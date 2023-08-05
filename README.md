@@ -11,10 +11,10 @@ Rogue Squadron is an exhilarating and action-packed Java-based shooting game tha
     
 
 ## System Features
-* Star Wars Theme: Immerse yourself in the thrilling world of Star Wars with captivating graphics and sound effects inspired by the iconic franchise.
-* Event Handlers: The game utilizes event handlers to create an interactive shooting experience, where players can showcase their accuracy.
-* Score Tracking: Keep track of your achievements and progress as you blast your way through waves of Storm Troopers.
-* High Scores: Compete against yourself and others by aiming for the highest score on the leaderboard.
+* **Star Wars Theme**: Immerse yourself in the thrilling world of Star Wars with captivating graphics and sound effects inspired by the iconic franchise.
+* **Event Handlers**: The game utilizes event handlers to create an interactive shooting experience, where players can showcase their accuracy.
+* **Score Tracking**: Keep track of your achievements and progress as you blast your way through waves of Storm Troopers.
+* **High Scores**: Compete against yourself and others by aiming for the highest score on the leaderboard.
 
 
 ## 🖥️Technologies Used
@@ -40,6 +40,7 @@ Note: Before installing, make sure that your computer meets the minimum requirem
 
 ## Acknowledgements
 We acknowledge that Rogue Squadron, a Java-based game, is inspired by the Star Wars franchise created by George Lucas. We do not own rights to Star Wars and this is a non-commercial fan project for educational and entertainment purposes only. All rights belong to Lucasfilm Ltd., Disney, and their respective owners.
+
 May the Force be with you!
 
 
